@@ -1,3 +1,16 @@
+# Jekyll
 _site
 .sass-cache
 .jekyll-metadata
+
+# Visual Studio Code
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Mac
+
+**/.DS_Store
