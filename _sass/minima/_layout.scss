@@ -247,3 +247,23 @@
     }
   }
 }
+
+// Custom
+
+body {
+  background: url(img/home-screen4.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+// Home
+
+#home-container {
+  border-color: red;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 18%;
+  margin-bottom: 18%;
+}
