@@ -118,6 +118,13 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
+  border-style: solid;
+  border-color: red;
+}
+
+.social-media-list li {
+  display: inline;
+  margin-left: $spacing-unit / 2;
 }
 
 .footer-col-wrapper {
@@ -139,8 +146,7 @@
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
+  width: auto;
 }
 
 .footer-col-3 {

@@ -18,6 +18,11 @@
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
+          {% if site.email %}
+          <li>
+            {% include icon-email.html username=site.email %}
+          </li>
+          {% endif %}
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
