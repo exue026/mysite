@@ -114,7 +114,6 @@
   margin-bottom: $spacing-unit / 2;
 }
 
-.contact-list,
 .social-media-list {
   list-style: none;
   margin-left: 0;
@@ -135,7 +134,7 @@
 }
 
 .footer-col {
-  float: left;
+  float: right;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }
@@ -147,11 +146,6 @@
 
 .footer-col-2 {
   width: auto;
-}
-
-.footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
