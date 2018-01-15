@@ -15,11 +15,16 @@
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   margin-bottom: 0;
+  letter-spacing: 1px;
   float: left;
 
   &,
   &:visited {
     color: $grey-color-dark;
+  }
+
+  &:hover {
+    color: $brand-color;
   }
 }
 
@@ -38,6 +43,10 @@
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+  
+    &:hover {
+      color: $brand-color;
+    }
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -117,12 +126,10 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
-  border-style: solid;
-  border-color: red;
 }
 
 .social-media-list li {
-  display: inline;
+  display: inline-block;
   margin-left: $spacing-unit / 2;
 }
 
@@ -261,9 +268,6 @@ body {
 // Home
 
 #home-container {
-  border-color: red;
-  border-width: 2px;
-  border-style: solid;
   margin-top: 18%;
   margin-bottom: 18%;
 }
