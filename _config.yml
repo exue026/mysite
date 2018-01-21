@@ -18,9 +18,10 @@ author: Ethan Xue
 email: ethan.xue@gmail.com
 description: "Ethan Xue's personal website"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ethanxue.tech" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.ethanxue.tech" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: exue026
 linkedin_username: ethanxue026
+disqus_shortname: ethanxue-tech
 
 # Build settings
 markdown: kramdown

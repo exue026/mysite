@@ -270,4 +270,8 @@ body {
 #home-container {
   margin-top: 18%;
   margin-bottom: 18%;
+  @media screen and (max-width: $on-palm) {
+    margin-top: 20%;
+    margin-bottom: 20%;
+  }
 }
