@@ -227,6 +227,16 @@
   }
 }
 
+.back-to-blog {
+  margin-bottom: $spacing-unit;
+  border-left-style: double;
+  border-left-color: grey;
+  border-left-width: 4px;
+  padding: 10px;
+  color: gray;
+  margin-left: $spacing-unit / 2;
+}
+
 .post-content {
   margin-bottom: $spacing-unit;
 
