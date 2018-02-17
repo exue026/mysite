@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi my name is Ethan Xue! I'm a second year Software Engineering student at the University of Waterloo. I built this website mainly because I wanted to try out blogging, so head over to my [blog](/index) if you'd like, or keep on reading to learn more about me. <strong>Also, I'm currently looking for internship opportunities for the Fall 2018 term (September - December), so feel free to email me if you're interested in talking.</strong>
+Hi my name is Ethan Xue! I'm a second year Software Engineering student at the University of Waterloo. I built this website mainly because I wanted to try out blogging, so head over to my [blog](/index) if you'd like, or keep on reading to learn more about me. <strong>Also, I'm currently looking for internship opportunities for the Fall 2018 term (September - December), so feel free to [email](mailto: ethan.xue@gmail.com) me if you're interested in talking.</strong>
 
 I have industry experience in mobile development, primarily in iOS, and web development. Some of the programming languages I've used in projects include Java, C++, JavaScript, Swift, Kotlin and Scala, and I'm currently learning Python. Being enrolled in the co-op program at UW, I've completed one work term already and I'm currently doing my second work term.
 

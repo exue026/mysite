@@ -229,16 +229,27 @@
 
 .back-to-blog {
   margin-bottom: $spacing-unit;
-  border-left-style: double;
-  border-left-color: grey;
-  border-left-width: 4px;
   padding: 10px;
   color: gray;
-  margin-left: $spacing-unit / 2;
 }
 
 .post-content {
   margin-bottom: $spacing-unit;
+
+  .post-list {
+    a {
+      text-decoration: none;
+    }
+  }
+
+  a {
+    color: $text-color;
+    text-decoration: underline;
+  
+    &:hover {
+      color: $brand-color;
+    }
+  }
 
   h2 {
     @include relative-font-size(2);
