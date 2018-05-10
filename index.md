@@ -10,11 +10,13 @@ I consider myself a Lifelong Learner. Versatility and adaptability are two softw
 
 <strong>I'm currently looking for internship opportunities for the Fall 2018 term (September - December), so feel free to [email](mailto: ethan.xue@gmail.com) me if you're interested in talking.</strong>
 
+<br>
+
 # Experience
 
-## Zenreach - Full-Stack Engineer Intern
+## Zenreach - Full-Stack Engineering Intern
 
- I worked at [Zenreach](http://zenreach.com){:target="_blank"}. Zenreach is a late-stage startup heardquarted in California that provides Wifi marketing solutions for approximately 7000 businesses. Recently, they managed to raise $30 million in Series C funding, including contributions from NBA all-star Kevin Durant and actor/VC Ashton Kutcher.
+ I worked at [Zenreach](http://zenreach.com){:target="_blank"}. Zenreach is a late-stage startup headquarted in California that provides Wifi marketing solutions for approximately 7000 businesses. Recently, they managed to raise $30 million in Series C funding, including contributions from NBA all-star Kevin Durant and actor/VC Ashton Kutcher.
 
 Main technologies I used:
 * JavaScript, Python, Go
@@ -37,7 +39,7 @@ What I accomplished:
     * Implemented Go microservice that makes smart-message email sending event-driven by using Apache Kafka, resulting in a 15x increase in speed compared to the existing system
     * Reduced worst case time from hours to minutes
 
-# Zeitspace Inc. - Software-Engineer Intern
+## Zeitspace Inc. - Software-Engineering Intern
 
 I worked at [Zeitspace Inc.](http://zeitspace.com){:target="_blank"}, a recently-established product design and development consulting agency in downtown Kitchener. I was involved in the development and productionalization of two products, both with thousands of users.
 
@@ -56,3 +58,57 @@ What I accomplished:
     * Implemented a RESTful web application using by React, Node, and PostgreSQL, featuring a JavaScript survey framework that generates dynamic surveys for web apps, which I contributed to building from scratch.
 * Other
     * I developed and presented a 2+ hour hands-on technical workshop on Kotlin to 20+ industry professionals as an event on [meetup.com](https://www.meetup.com/Zeitspace/events/242825767/)
+
+<br>
+
+# Projects
+
+## Virtual Coin Exchange
+
+A virtual cryptocurrency trading simulator allowing a user to create custom games, compete against friends to see who's the better money-maker, and monitor the hottest currencies on the market!
+
+Main technologies I used:
+* JavaScript
+* React, Redux, React Router v4, Sass
+* Node, MongoDB
+* Heroku
+
+## Lacs to MIPS compiler
+
+Compiles a subset of Scala into MIPS machine code, with support for conditonals, loops, closures, and more.
+
+Main technologies I used:
+* Scala
+
+## Spam Detection System
+
+Chrome plugin with an email spam classifier trained using logistic regression with regularization
+
+Main technologies I used:
+* Python, Numpy
+* JavaScript, HTML, CSS
+
+## Chatty
+
+iOS social media platform that connects users seeking to learn or improve on new languages. Built all views programmatically.
+
+Main technologies I used:
+* Swift
+* Node, MySQL
+* Firebase, Heroku
+
+## 2D Marksmen Game
+
+Developed a shooting game with a scoring and inventory system on the Arduino-based Tiva Microcontroller
+
+Main technologies I used:
+* C++
+* Arduino
+
+## NBA Portal
+
+Constructed a web crawler using Jsoup library that scrapes data regarding the NBA from ESPN’s website, displaying the information dynamically through a GUI, including daily NBA schedules, game results, and scores of live games in real-time
+
+Main technologies I used:
+* Java
+* MySQL
