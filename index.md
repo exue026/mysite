@@ -8,11 +8,15 @@ Hi, my name is Ethan. I'm a second year Sofware Engineering student at the Unive
 
 I consider myself a Lifelong Learner. Versatility and adaptability are two software engineering qualities that I particularly value and strive to improve on --that's why I'm always hungry to get my hands dirty with new technologies. With tech being such a large and fast growing industry, there's just so many more areas I have yet to explore. The journey of learning never ceases.
 
-<strong>I'm currently looking for internship opportunities for the Fall 2018 term (September - December), so feel free to [email](mailto: ethan.xue@gmail.com) me if you're interested in talking.</strong>
+<strong>I'm currently looking for internship opportunities for the Summer 2019 term (May - August), so feel free to [email](mailto: ethan.xue@gmail.com) me if you're interested in talking.</strong>
 
 <br>
 
 # Experience
+
+## Eero inc. - Software Engineering Intern
+
+Looking forward to working on the Growth team as of September 2018.
 
 ## Zenreach - Full-Stack Engineering Intern
 
