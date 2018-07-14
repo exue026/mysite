@@ -14,7 +14,7 @@ I consider myself a Lifelong Learner. Versatility and adaptability are two softw
 
 # Experience
 
-## Eero inc. - Software Engineering Intern
+## eero inc. - Software Engineering Intern
 
 Looking forward to working on the Growth team as of September 2018.
 
