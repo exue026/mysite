@@ -86,7 +86,7 @@ Main technologies I used:
 
 ## Spam Detection System
 
-Chrome plugin with an email spam classifier trained using logistic regression with regularization
+Chrome plugin with an email spam classifier trained using logistic regression with regularization.
 
 Main technologies I used:
 * Python, Numpy
@@ -108,6 +108,10 @@ Developed a shooting game with a scoring and inventory system on the Arduino-bas
 Main technologies I used:
 * C++
 * Arduino
+
+## Straights
+
+Developed a GUI application using C++ and Gtkmm that allows up to 4 people to play against each other or against the computer in a game of the card game Straights.
 
 ## NBA Portal
 
