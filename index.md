@@ -123,7 +123,11 @@ Main technologies I used:
 
 ## Straights
 
-Developed a GUI application using C++ and Gtkmm that allows up to 4 people to play against each other or against the computer in a game of the card game Straights.
+Developed a GUI application invoking many design patterns that allows up to 4 people to play against each other or against bot(s) in a game of the card game Straights.
+
+Main technologies I used:
+* C++
+* Gtkmm
 
 ## NBA Portal
 
