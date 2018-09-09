@@ -4,7 +4,7 @@ layout: home
 
 # About
 
-Hi, my name is Ethan. I'm a second year Sofware Engineering student at the University of Waterloo. I've worked with languages like Python, Java, JavaScript, Go, C++, and Swift, and web technologies like React, Redux, Node, Django in professional settings and/or side projects.
+Hi, my name is Ethan! I'm a second year Sofware Engineering student at the University of Waterloo. I've worked with languages like Python, Java, JavaScript, Go, C++, and Swift, and web technologies like React, Redux, Node, Django in professional settings, on the side, and in school.
 
 I consider myself a Lifelong Learner. Versatility and adaptability are two software engineering qualities that I particularly value and strive to improve on --that's why I'm always hungry to get my hands dirty with new technologies. With tech being such a large and fast growing industry, there's just so many more areas I have yet to explore. The journey of learning never ceases.
 
@@ -16,7 +16,7 @@ I consider myself a Lifelong Learner. Versatility and adaptability are two softw
 
 ## eero inc. - Software Engineering Intern
 
-Looking forward to working on the Growth team as of September 2018.
+I'm currently interning on the Growth team at eero. I'll be doing full-stack development on the Remote Network Management application, using technologies like React/Redux and Scala. I hope to also learn some DevOps involving AWS and Kubernetes.
 
 ## Zenreach - Full-Stack Engineering Intern
 
@@ -91,6 +91,15 @@ Chrome plugin with an email spam classifier trained using logistic regression wi
 Main technologies I used:
 * Python, Numpy
 * JavaScript, HTML, CSS
+
+## Task-Manager
+
+My personalized task management software designed to help me better manage my time and resources.
+
+Main technologies I used:
+* JavaScrip
+* React, Redux, React Router, SASS
+
 
 ## Chatty
 
