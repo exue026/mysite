@@ -67,6 +67,8 @@ What I accomplished:
 
 # Projects
 
+The source code for all the projects can be found on [github](https://github.com/exue026?tab=repositories).
+
 ## Virtual Coin Exchange
 
 A virtual cryptocurrency trading simulator allowing a user to create custom games, compete against friends to see who's the better money-maker, and monitor the hottest currencies on the market!
@@ -97,9 +99,10 @@ Main technologies I used:
 My personalized task management software designed to help me better manage my time and resources.
 
 Main technologies I used:
-* JavaScrip
+* JavaScript
 * React, Redux, React Router, SASS
-
+* Go
+* MongoDB
 
 ## Chatty
 
