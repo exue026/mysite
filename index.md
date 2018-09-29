@@ -16,7 +16,7 @@ I consider myself a Lifelong Learner. Versatility and adaptability are two softw
 
 ## eero inc. - Software Engineering Intern
 
-I'm currently interning on the Growth team at eero. I'll be doing full-stack development on the Remote Network Management application, using technologies like React/Redux and Scala. I hope to also learn some DevOps involving AWS and Kubernetes.
+I'm currently interning on the Growth team at eero. I'll be doing full-stack development on the Remote Network Management application, using technologies like React/Redux, Scala, and Play.
 
 ## Zenreach - Full-Stack Engineering Intern
 
@@ -57,7 +57,8 @@ What I accomplished:
     * Pioneered iOS and Android applications for the YMCA that delivered real-time updates and photos to the families of 6000+ children.
     * The iOS app had 90+ daily users at its peak, and 50+ for the Android app.
     * Contributed to the backend Node server supporting both mobile platforms
-    * I implemented my own algorithm to efficiently aggregate user data in a background task and optimized SQL queries for Postgres, together which ultimately led to a boost in performance of data processing and delivery by 750%
+    * I implemented my own alg
+    * orithm to efficiently aggregate user data in a background task and optimized SQL queries for Postgres, together which ultimately led to a boost in performance of data processing and delivery by 750%
 * Web application for the SHORE centre
     * Implemented a RESTful web application using by React, Node, and PostgreSQL, featuring a JavaScript survey framework that generates dynamic surveys for web apps, which I contributed to building from scratch.
 * Other
@@ -68,6 +69,12 @@ What I accomplished:
 # Projects
 
 The source code for all the projects can be found on [github](https://github.com/exue026?tab=repositories).
+
+## MantaDB
+
+Distributed key-value database.
+
+* 100% Go
 
 ## Virtual Coin Exchange
 
