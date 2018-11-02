@@ -4,11 +4,13 @@ layout: home
 
 # About
 
-Hi, my name is Ethan! I'm a second year Sofware Engineering student at the University of Waterloo. I've worked with languages like Python, Java, JavaScript, Go, C++, and Swift, and web technologies like React, Redux, Node, Django in professional settings, on the side, and in school.
+Hi, my name is Ethan! I'm a third year Sofware Engineering student at the University of Waterloo interested in distributed systems, infrastructure, and DevOps.
 
-I consider myself a Lifelong Learner. Versatility and adaptability are two software engineering qualities that I particularly value and strive to improve on --that's why I'm always hungry to get my hands dirty with new technologies. With tech being such a large and fast growing industry, there's just so many more areas I have yet to explore. The journey of learning never ceases.
+I've contributed production-level code in Python, JavaScript, Go, C++, Scala, and Swift, using tools/libraries/frameworks such as React/Redux, NodeJS, Django, Play, Celery, and Kafka throughout my three internships.
 
-<strong>I'm currently looking for internship opportunities for the Summer 2019 term (May - August), so feel free to [email](mailto: ethan.xue@gmail.com) me if you're interested in talking.</strong>
+I consider myself a Lifelong Learner. Adaptability and curiosity are two qualities I particularly value and strive to improve on as I become a better Software Engineer. With tech being such a large and fast growing industry, there's just so many more areas I have yet to explore. The journey of learning never ceases.
+
+<strong>I'm currently looking for internship opportunities for the Summer 2019 term (May - August), so feel free to [email](mailto: ethan.xue@gmail.com) me if you're interested in chatting.</strong>
 
 <br>
 
@@ -16,11 +18,11 @@ I consider myself a Lifelong Learner. Versatility and adaptability are two softw
 
 ## eero inc. - Software Engineering Intern
 
-I'm currently interning on the Growth team at eero. I'll be doing full-stack development on the Remote Network Management application, using technologies like React/Redux, Scala, and Play.
+I'm currently interning on the Growth team at [eero](https://eero.com){:target="_blank"} in San Francisco. eero is a startup that creates smart home wifi systems that heavily leverage the Cloud, which is one of my main areas of development focus. I'm working on the Remote Network Management product, using technologies like Scala, Play, React, Redux, Jest.
 
 ## Zenreach - Full-Stack Engineering Intern
 
- I worked at [Zenreach](http://zenreach.com){:target="_blank"}. Zenreach is a late-stage startup headquarted in California that provides Wifi marketing solutions for approximately 7000 businesses. Recently, they managed to raise $30 million in Series C funding, including contributions from NBA all-star Kevin Durant and actor/VC Ashton Kutcher.
+I worked at [Zenreach](http://zenreach.com){:target="_blank"}. Zenreach is a late-stage startup headquarted in California that provides Wifi marketing solutions for approximately 7000 businesses. Recently, they managed to raise $30 million in Series C funding,including contributions from NBA all-star Kevin Durant and actor/VC Ashton Kutcher.
 
 Main technologies I used:
 * JavaScript, Python, Go
@@ -70,21 +72,21 @@ What I accomplished:
 
 The source code for all the projects can be found on [github](https://github.com/exue026?tab=repositories).
 
-## MantaDB
-
-Distributed key-value database.
-
-* 100% Go
-
 ## Virtual Coin Exchange
 
 A virtual cryptocurrency trading simulator allowing a user to create custom games, compete against friends to see who's the better money-maker, and monitor the hottest currencies on the market!
 
 Main technologies I used:
 * JavaScript
-* React, Redux, React Router v4, Sass
+* React, Redux, React Router, Sass
 * Node, MongoDB
 * Heroku
+
+## MantaDB
+
+A distributed key-value database named after my swim club. Currently, a work in progress.
+
+* 100% Go
 
 ## Lacs to MIPS compiler
 
@@ -95,21 +97,11 @@ Main technologies I used:
 
 ## Spam Detection System
 
-Chrome plugin with an email spam classifier trained using logistic regression with regularization.
+Chrome plugin with an email spam classifier written from the ground up and trained using logistic regression with regularization.
 
 Main technologies I used:
 * Python, Numpy
 * JavaScript, HTML, CSS
-
-## Task-Manager
-
-My personalized task management software designed to help me better manage my time and resources.
-
-Main technologies I used:
-* JavaScript
-* React, Redux, React Router, SASS
-* Go
-* MongoDB
 
 ## Chatty
 
