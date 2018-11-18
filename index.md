@@ -18,7 +18,7 @@ I consider myself a Lifelong Learner. Adaptability and curiosity are two qualiti
 
 ## eero inc. - Software Engineering Intern
 
-I'm currently interning on the Growth team at [eero](https://eero.com){:target="_blank"} in San Francisco. eero is a startup that creates smart home wifi systems that heavily leverage the Cloud, which is one of my main areas of development focus. I'm working on the Remote Network Management product, using technologies like Scala, Play, React, Redux, Jest.
+I'm currently interning on the Growth team at [eero](https://eero.com){:target="_blank"} in San Francisco. eero is a startup that creates smart home wifi systems that heavily leverage the Cloud, which is one of my main areas of development focus. I'm working on the Remote Network Management product, using technologies like Scala, Play, React, Redux, Jest. I'm doing a lot of backend API development.
 
 ## Zenreach - Full-Stack Engineering Intern
 
