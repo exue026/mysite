@@ -20,6 +20,7 @@ I consider myself a Lifelong Learner. Adaptability and curiosity are two qualiti
 
 I'm currently interning on the Growth team at [eero](https://eero.com){:target="_blank"} in San Francisco. eero is a startup that creates smart home wifi systems that heavily leverage the Cloud, which is one of my main areas of development focus. I'm working on the Remote Network Management product, using technologies like Scala, Play, React, Redux, Jest. Two main projects I owned and completed are: Network Devices dashboard and Organization Permission Overrides framework.
 
+
 ## Zenreach - Full-Stack Engineering Intern
 
 I worked at [Zenreach](http://zenreach.com){:target="_blank"}. Zenreach is a late-stage startup headquarted in California that provides Wifi marketing solutions for approximately 7000 businesses. Recently, they managed to raise $30 million in Series C funding,including contributions from NBA all-star Kevin Durant and actor/VC Ashton Kutcher.
