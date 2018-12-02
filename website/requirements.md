@@ -35,13 +35,20 @@
 #### Cloudera - Software Engineering Intern
 
 * Will be working on the Apache Impala project using C++
+* Apache Impala is an open source, massively parallel processing, distributed SQL query engine for Apache Hadoop.
 
 #### eero - Software Engineering Intern
 
-* Working on Remote Network Management, a platform that lets Internet Service Providers manage and debug their customers' wifi networks.
-* Built a custom user permissioning framework using Scala and Play
-* Implemented a frontend dashboard for managing the devices on a network
+* Contributed full-stack to the Remote Network Management, a platform that lets Internet Service Providers manage and debug their customers' wifi networks.
+* Implemented a user permissioning framework using Scala and Play, which allowed for feature configuration on a per organizaton level.
+* Built a dashboard for viewing, searching, and modifying customers’ network insights and devices
 
 #### Zenreach - Full-Stack Engineering Intern
 
 #### Zeitspace Inc. - Software Engineering Intern
+
+### Blog Post Content
+
+* I started researching about dogs
+* The day I got mugged in SF's financial district
+* Chess experience
