@@ -36,6 +36,7 @@
 
 * Will be working on the Apache Impala project using C++
 * Apache Impala is an open source, massively parallel processing, distributed SQL query engine for Apache Hadoop.
+* Working at Cloudera Galactic HQ in Palo Alto, California
 
 #### eero - Software Engineering Intern
 
