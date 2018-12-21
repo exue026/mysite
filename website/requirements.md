@@ -12,6 +12,7 @@
 ### Curriculum Vitae
 
 * Overview of technical skills
+* I've written production code in Python, C++, JavaScript, Go, Scala, and Swift
 * Work experience
 * Personal projects
 * Education
