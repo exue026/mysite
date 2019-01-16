@@ -51,6 +51,7 @@
 
 ### Blog Post Content
 
+* My work out schedule
 * I started researching about dogs
 * The day I got mugged in SF's financial district
 * Chess experience
