@@ -82,11 +82,11 @@ Main technologies I used:
 * Node, MongoDB
 * Heroku
 
-## MantaDB
+## Manta
 
-A distributed key-value database named after my swim club. Currently, a work in progress.
+My take on building a chess engine.
 
-* 100% Go
+* 100% C++
 
 ## Lacs to MIPS compiler
 
@@ -111,6 +111,12 @@ Main technologies I used:
 * Swift
 * Node, MySQL
 * Firebase, Heroku
+
+## Poor Man's Paint
+Simplifed version of Microsoft Paint, built using Java Swing. Supports creation of custom shapes, save/load, and system copy/paste.
+
+* Java
+* Swing
 
 ## 2D Marksmen Game
 
