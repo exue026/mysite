@@ -4,7 +4,7 @@ layout: home
 
 # About
 
-Hi, my name is Ethan! I'm a third year Sofware Engineering student at the University of Waterloo interested in distributed systems, infrastructure, and DevOps.
+Hi, my name is Ethan! I'm a third year Sofware Engineering student at the University of Waterloo interested in distributed systems and infrastructure.
 
 I've contributed production-level code in Python, JavaScript, Go, C++, Scala, and Swift, using tools/libraries/frameworks such as React/Redux, NodeJS, Django, Play, Celery, and Kafka throughout my three internships.
 
