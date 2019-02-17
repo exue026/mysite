@@ -20,7 +20,7 @@ I consider myself a Lifelong Learner. Adaptability and curiosity are two qualiti
 
 Will be working on Apache Impala, an open-source MPP distributed SQL query engine for Apache Hadoop. I'll be working out of Cloudera Galactic HQ in Palo Alto, California.
 
-## eero inc. - Software Engineering Intern
+## eero (a subsidiary of Amazon.com) - Software Engineering Intern
 
 I'm currently interning on the Growth team at [eero](https://eero.com){:target="_blank"} in San Francisco. eero is a startup that creates smart home wifi systems that heavily leverage the Cloud, which is one of my main areas of development focus. I'm working on the Remote Network Management product, using technologies like Scala, Play, React, Redux, Jest. Two main projects I owned and completed are: Network Devices dashboard and Organization Permission Overrides framework.
 
