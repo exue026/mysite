@@ -138,6 +138,8 @@ Main technologies I used:
 * C++
 * Gtkmm
 
+## Mannequin Manipulation
+
 ## NBA Portal
 
 Constructed a web crawler using Jsoup library that scrapes data regarding the NBA from ESPN’s website, displaying the information dynamically through a GUI, including daily NBA schedules, game results, and scores of live games in real-time
