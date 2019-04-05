@@ -40,7 +40,7 @@
 * Apache Impala is an open source, massively parallel processing, distributed SQL query engine for Apache Hadoop.
 * Working at Cloudera Galactic HQ in Palo Alto, California
 
-#### eero (a subsidiary of Amazon.com) - Software Engineering Intern
+#### eero (a subsidiary of Amazon) - Software Engineering Intern
 
 * Contributed full-stack to the Remote Network Management, a platform that lets Internet Service Providers manage and debug their customers' wifi networks.
 * Implemented a user permissioning framework using Scala and Play, which allowed for feature configuration on a per organizaton level.
