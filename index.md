@@ -18,7 +18,7 @@ I consider myself a Lifelong Learner. Adaptability and curiosity are two qualiti
 
 ## Cloudera - Software Engineering Intern
 
-Will be working on Apache Impala, an open-source MPP distributed SQL query engine for Apache Hadoop. I'll be working out of Cloudera Galactic HQ in Palo Alto, California.
+Will be working on Apache Impala, an open-source MPP distributed SQL query engine for Apache Hadoop. I'll be working out of Cloudera Galactic HQ in Palo Alto, California. My project was replacing Impala's statestore with etcd, a distributed key-value store.
 
 ## eero (a subsidiary of Amazon.com) - Software Engineering Intern
 
