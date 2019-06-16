@@ -10,7 +10,7 @@ I've contributed production-level code in Python, JavaScript, Go, C++, Scala, an
 
 I consider myself a Lifelong Learner. Adaptability and curiosity are two qualities I particularly value and strive to improve on as I become a better Software Engineer. With tech being such a large and fast growing industry, there's just so many more areas I have yet to explore. The journey of learning never ceases.
 
-<strong>I'm currently looking for internship opportunities for the Summer 2019 term (May - August), so feel free to [email](mailto: ethan.xue@gmail.com) me if you're interested in chatting.</strong>
+<strong>I'm currently looking for internship opportunities for the Winter 2020 term (Jan - Apr), so feel free to email me at [email](mailto: ethan.xue@gmail.com).</strong>
 
 <br>
 
@@ -72,9 +72,15 @@ What I accomplished:
 
 <br>
 
-# Projects
+# Projects and Open Source Contributions
 
-The source code for all the projects can be found on [github](https://github.com/exue026?tab=repositories).
+The source code for most of the projects can be found at [github](https://github.com/exue026?tab=repositories).
+
+# Apache Impala
+
+Mostly worked on the backend of Apache Impala.
+
+* C++
 
 ## Virtual Coin Exchange
 
@@ -86,11 +92,11 @@ Main technologies I used:
 * Node, MongoDB
 * Heroku
 
-## Manta
+## RTX System
 
-My take on building a chess engine.
+Real-time Linux Kernel.
 
-* 100% C++
+* 100% C
 
 ## Lacs to MIPS compiler
 
@@ -99,13 +105,12 @@ Compiles a subset of Scala into MIPS machine code, with support for conditonals,
 Main technologies I used:
 * Scala
 
-## Spam Detection System
+## Spam Detector
 
-Chrome plugin with an email spam classifier written from the ground up and trained using logistic regression with regularization.
+Email spam classifier written from the ground up and trained using logistic regression with regularization.
 
 Main technologies I used:
 * Python, Numpy
-* JavaScript, HTML, CSS
 
 ## Chatty
 
