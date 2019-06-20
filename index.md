@@ -158,3 +158,10 @@ Constructed a web crawler using Jsoup library that scrapes data regarding the NB
 Main technologies I used:
 * Java
 * MySQL
+
+# Books and Papers I'm planning to read
+* UCB: architecture of a db
+* The Linux Programming Interface
+* Designing Data-Intensive Applications
+* Raft Consensus Algorithm Paper
+* Google MapReduce
