@@ -4,23 +4,25 @@ layout: home
 
 # About
 
-Hi, my name is Ethan! I'm a third year Sofware Engineering student at the University of Waterloo interested in distributed systems and infrastructure.
+Hi, my name is Ethan Xue! I'm a third year Sofware Engineering student at the University of Waterloo currently looking for an internship for January-April 2020. You can reach me by [email](mailto: ethan.xue@gmail.com).
 
-I've contributed production-level code in Python, JavaScript, Go, C++, Scala, and Swift, using tools/libraries/frameworks such as React/Redux, NodeJS, Django, Play, Celery, and Kafka throughout my three internships.
-
-I consider myself a Lifelong Learner. Adaptability and curiosity are two qualities I particularly value and strive to improve on as I become a better Software Engineer. With tech being such a large and fast growing industry, there's just so many more areas I have yet to explore. The journey of learning never ceases.
-
-<strong>I'm currently looking for internship opportunities for the Winter 2020 term (Jan - Apr), so feel free to email me at [email](mailto: ethan.xue@gmail.com).</strong>
-
-<br>
+I have four internships under my belt at companies like Cloudera and eero (a subsidiary of Amazon). My interests include distributed systems and open-source software development. I've contributed production code in C++, Python, JavaScript, Go, and Scala. For a more detailed description of my skillset and background, please check out my [resume]().
 
 # Experience
 
 ## Cloudera - Software Engineering Intern
 
-Will be working on Apache Impala, an open-source MPP distributed SQL query engine for Apache Hadoop. I'll be working out of Cloudera Galactic HQ in Palo Alto, California. My project was replacing Impala's statestore with etcd, a distributed key-value store.
+### Palo Alto, California | May - August 2019
 
-## eero (a subsidiary of Amazon.com) - Software Engineering Intern
+* Worked on Apache Impala, an open-source massively parallel processing SQL query engine for Apache Hadoop
+* Wrote C++ and Python
+* My primary project was to prototype replacing Impala's statestore daemon with etcd, an open-source distributed key-value store, to improve fault-tolerance and take the onus off of project committers to maintain the statestore
+* I also added functionality to the Impala shell to support global impalarc configuration files
+* I also added support to scan and decompress deflate files for tables stored as text
+
+## eero (a subsidiary of Amazon) - Software Engineering Intern
+
+### San Francisco, California | September - December 2018
 
 I'm currently interning on the Growth team at [eero](https://eero.com){:target="_blank"} in San Francisco. eero is a startup that creates smart home wifi systems that heavily leverage the Cloud, which is one of my main areas of development focus. I'm working on the Remote Network Management product, using technologies like Scala, Play, React, Redux, Jest. Two main projects I owned and completed are: Network Devices dashboard and Organization Permission Overrides framework.
 
