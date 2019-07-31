@@ -1,12 +1,14 @@
 ---
-layout: home
+layout: default
 ---
 
 # About
 
-Hi, my name is Ethan Xue! I'm a third year Sofware Engineering student at the University of Waterloo currently looking for an internship for January-April 2020. You can reach me by [email](mailto: ethan.xue@gmail.com).
+Hi, my name is Ethan Xue! I'm a third year Sofware Engineering student at the University of Waterloo currently looking for an internship for January-April 2020.
 
-I have four internships under my belt at companies like Cloudera and eero (a subsidiary of Amazon). My interests include distributed systems and open-source software development. I've contributed production code in C++, Python, JavaScript, Go, and Scala. For a more detailed description of my skillset and background, please check out my [resume]().
+I have four internships under my belt at companies like Cloudera and eero (a subsidiary of Amazon). My interests include distributed systems and open-source software development. I've contributed production code in C++, Python, JavaScript, Go, and Scala.
+
+Some of my current/past hobbies include: NBA2K, basketball, swimming, travelling, anime, and weightlifting.
 
 # Experience
 
@@ -14,156 +16,81 @@ I have four internships under my belt at companies like Cloudera and eero (a sub
 
 ### Palo Alto, California | May - August 2019
 
-* Worked on Apache Impala, an open-source massively parallel processing SQL query engine for Apache Hadoop
+* At [Cloudera](https://www.cloudera.com){:target="_blank"}, I worked on [Apache Impala](https://github.com/cloudera/Impala){:target="_blank"}, an open-source massively parallel processing SQL query engine for Apache Hadoop
 * Wrote C++ and Python
-* My primary project was to prototype replacing Impala's statestore daemon with etcd, an open-source distributed key-value store, to improve fault-tolerance and take the onus off of project committers to maintain the statestore
-* I also added functionality to the Impala shell to support global impalarc configuration files
-* I also added support to scan and decompress deflate files for tables stored as text
+* My primary project was to prototype replacing Impala's statestore daemon with etcd, an open-source distributed key-value store, to improve Impala's fault-tolerance and take the onus off of project committers to maintain the statestore
+* Please take a look at my [design doc](https://docs.google.com/document/d/1F21b52EUUCs1RdcUY7I9wnicjOJCouSK6UEQSe8qq_4/edit) for more information
+* I wrote a gRPC C++ client for etcd
+* I added support in Impala for scanning tables stored as text files compressed using the deflate algorithm
+* I also enhanced the usability of the Impala Shell by adding support for global impalarc configuration files, allowing global Impala Shell options to be configured by a sys admin
 
-## eero (a subsidiary of Amazon) - Software Engineering Intern
+## eero, an Amazon company - Software Engineering Intern
 
 ### San Francisco, California | September - December 2018
 
-I'm currently interning on the Growth team at [eero](https://eero.com){:target="_blank"} in San Francisco. eero is a startup that creates smart home wifi systems that heavily leverage the Cloud, which is one of my main areas of development focus. I'm working on the Remote Network Management product, using technologies like Scala, Play, React, Redux, Jest. Two main projects I owned and completed are: Network Devices dashboard and Organization Permission Overrides framework.
+* [eero](https://eero.com){:target="_blank"}, acquired by Amazon in 2019, develops smart home Wifi systems with mesh network technology
+* Used Scala, Play, React, and Redux
+* I worked on the Remote Network Management (RNM) product, a web platform that monitors, troubleshoots, and manages Wifi networks remotely
+* I designed and implemented a scalable role-based permissions framework for allowing different features in RNM to be conditionally blocked on a per customer organization basis
+* I also built a dashboard for viewing, searching, and modifying devices on a Wifi network using React/Redux
 
 ## Zenreach - Full-Stack Engineering Intern
 
-I worked at [Zenreach](http://zenreach.com){:target="_blank"}. Zenreach is a late-stage startup headquarted in California that provides Wifi marketing solutions for approximately 7000 businesses. Recently, they managed to raise $30 million in Series C funding,including contributions from NBA all-star Kevin Durant and actor/VC Ashton Kutcher.
+### Kitchener, Ontario | January - April 2018
 
-Main technologies I used:
-* JavaScript, Python, Go
-* React, Redux, Sass, Django
-* Kafka, Celery
-* MongoDB
-* Split.io, Prometheus, Goa
-
-What I accomplished:
-* Contact-list, a feature allowing a business to manage and analyze their customers.
-    * Incorporated Redux, fixing numerous pre-exisiting bugs and reducing the size of the codebase significantly.
-    * Completely refactored the UI/UX of the feature, making it much more user friendly and valuable for clients.
-    * Implemented complex custom filtering and asynchronous bulk actions like bulk updating customer information and bulk undoing imported customers using Celery.
-    * Performed A/B tests using split.io, which told us that the revamped contact-list increased user engagement by 40-50%.
-* Unbundling the main product
-    * Setup Go service using Goa and exposed metrics endpoints to Prometheus for the sake of load testing the service
-    * Integrated a store interface that pulls billing data from Postgres
-    * Implemented in-memory LRU caching and core logic for turning on and turning off various product addons using billing information, business tree hierachies, and gatekeeper data from Mongo.
-* Event-driven smart messages
-    * Implemented Go microservice that makes smart-message email sending event-driven by using Apache Kafka, resulting in a 15x increase in speed compared to the existing system
-    * Reduced worst case time from hours to minutes
+* [Zenreach](http://zenreach.com){:target="_blank"} was a late-stage startup headquarted in California that provides Wifi marketing solutions for businesses
+* I used a variety of technologies including Go, Python/Django, React/Redux, Apache Kafka, Celery, and MongoDB
+* I implemented a Go microservice with LRU caching to control feature activation across the main product for
+7000+ businesses, using billing data and business hierarchies
+* I used Go to bootstrap another service that utilized Kafka to make smart message sending event-driven and 15x faster than the previous architecture
+* Added Redux to the product, reducing the size of the codebase significantly and fixing numerous bugs along the way
 
 ## Zeitspace Inc. - Software-Engineering Intern
 
-I worked at [Zeitspace Inc.](http://zeitspace.com){:target="_blank"}, a recently-established product design and development consulting agency in downtown Kitchener. I was involved in the development and productionalization of two products, both with thousands of users.
+### Kitchener, Ontario | May - August 2017
 
-Main technologies I used:
-* JavaScript, Swift, Kotlin
-* React, CSS, Node
-* PostgreSQL, Heroku
+* [Zeitspace Inc.](http://zeitspace.com){:target="_blank"} was a product design and development consulting agency
+* I pioneered an iOS application for the YMCA that delivered real-time updates and photos to thousands of families
+* The main technologies I used include JavaScript/Node, Swift, and PostgreSQL
 
-What I accomplished:
-* iOS and Android real-time news applications
-    * Pioneered iOS and Android applications for the YMCA that delivered real-time updates and photos to the families of 6000+ children.
-    * The iOS app had 90+ daily users at its peak, and 50+ for the Android app.
-    * Contributed to the backend Node server supporting both mobile platforms
-    * I implemented my own alg
-    * orithm to efficiently aggregate user data in a background task and optimized SQL queries for Postgres, together which ultimately led to a boost in performance of data processing and delivery by 750%
-* Web application for the SHORE centre
-    * Implemented a RESTful web application using by React, Node, and PostgreSQL, featuring a JavaScript survey framework that generates dynamic surveys for web apps, which I contributed to building from scratch.
-* Other
-    * I developed and presented a 2+ hour hands-on technical workshop on Kotlin to 20+ industry professionals as an event on [meetup.com](https://www.meetup.com/Zeitspace/events/242825767/)
+# Projects and Open-Source Contributions
 
-<br>
+## Apache Impala
 
-# Projects and Open Source Contributions
+* I worked on the backend of Apache Impala for four months
+* I made contributions to the Impala statestore, scanner, and shell.
+* Wrote C++ and Python
 
-The source code for most of the projects can be found at [github](https://github.com/exue026?tab=repositories).
-
-# Apache Impala
-
-Mostly worked on the backend of Apache Impala.
-
-* C++
+## Real-Time Executive for the Keil MCB1700
+  
+* As part of the University of Waterloo's Operating Systems course, spent 80+ hours with a team of three others to implement a simple OS kernel in C that provides a basic multiprogramming environment, preemption, memory management, message-based inter-process communication, a timing service, and system console I/O.
 
 ## Virtual Coin Exchange
 
-A virtual cryptocurrency trading simulator allowing a user to create custom games, compete against friends to see who's the better money-maker, and monitor the hottest currencies on the market!
-
-Main technologies I used:
-* JavaScript
-* React, Redux, React Router, Sass
-* Node, MongoDB
-* Heroku
-
-## RTX System
-
-Real-time Linux Kernel.
-
-* 100% C
-
-## Lacs to MIPS compiler
-
-Compiles a subset of Scala into MIPS machine code, with support for conditonals, loops, closures, and more.
-
-Main technologies I used:
-* Scala
+* A virtual cryptocurrency trading simulator allowing users to create custom games and compete against friends
+* Wrote the platform using Node, React, Redux, and MongoDB
 
 ## Spam Detector
 
-Email spam classifier written from the ground up and trained using logistic regression with regularization.
+* Implemented an email spam classifier written from the ground up and trained using logistic regression with regularization.
+* I wrote the whole thing in Python using NumPy
 
-Main technologies I used:
-* Python, Numpy
+## Lacs to MIPS compiler
+
+* Wrote a basic system to compile a subset of Scala into MIPS machine code, with support for conditonals, loops, closures, and more
+* Written in Scala
 
 ## Chatty
 
-iOS social media platform that connects users seeking to learn or improve on new languages. Built all views programmatically.
-
-Main technologies I used:
-* Swift
-* Node, MySQL
-* Firebase, Heroku
+* iOS social media platform that connects users seeking to learn or improve on new languages
+* I built the backend using Node, MySQL, and Heroku
 
 ## Poor Man's Paint
-Simplifed version of Microsoft Paint, built using Java Swing. Supports creation of custom shapes, save/load, and system copy/paste.
 
-* Java
-* Swing
-
-## 2D Marksmen Game
-
-Developed a shooting game with a scoring and inventory system on the Arduino-based Tiva Microcontroller
-
-Main technologies I used:
-* C++
-* Arduino
+* Vastly simplifed version of Microsoft Paint, built using Java Swing
+* Supports creation/editing of custom shapes, save/load, and system copy/paste.
 
 ## Straights
 
-Developed a GUI application invoking many design patterns that allows up to 4 people to play against each other or against bot(s) in a game of the card game Straights.
-
-Main technologies I used:
-* C++
-* Gtkmm
-
-## Mannequin Manipulation
-
-Built an Android application that let's the user interact with a character using direct manipulation. Supports translation, rotation and scaling of limb, by using Affine transformations.
-
-Main technologies I used:
-* Android studio
-* Java
-
-## NBA Portal
-
-Constructed a web crawler using Jsoup library that scrapes data regarding the NBA from ESPN’s website, displaying the information dynamically through a GUI, including daily NBA schedules, game results, and scores of live games in real-time
-
-Main technologies I used:
-* Java
-* MySQL
-
-# Books and Papers I'm planning to read
-* UCB: architecture of a db
-* The Linux Programming Interface
-* Designing Data-Intensive Applications
-* Raft Consensus Algorithm Paper
-* Google MapReduce
+* Developed a GUI application invoking many design patterns that allows up to 4 people to play against each other or against bot(s) in a game of the card game Straights
+* Used C++ and Gtkmm
