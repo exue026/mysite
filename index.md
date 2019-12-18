@@ -4,13 +4,19 @@ layout: default
 
 # About
 
-Hi, my name is Ethan Xue! I'm a third year Sofware Engineering student at the University of Waterloo currently looking for an internship for January-April 2020.
+Hi, my name is Ethan Xue! I'm a third year Sofware Engineering student at the University of Waterloo currently looking for an internship for September - December 2020.
 
-I have four internships under my belt at companies like Cloudera and eero (a subsidiary of Amazon). My interests include distributed systems and open-source software development. I've contributed production code in C++, Python, JavaScript, Go, and Scala.
+I'm currently working at Google. Previously, I interned at four companies including Cloudera and Amazon eero. My interests include distributed systems and open-source software development. I've contributed production code in C++, Python, JavaScript, Go, and Scala.
 
 Some of my current/past hobbies include: NBA2K, basketball, swimming, travelling, anime, and weightlifting.
 
 # Experience
+
+## Google - Software Engineering Intern
+
+### Mountain View, California | January - April 2019
+
+Working on distributed systems using Java as a member of the Play Store Security team. Technologies used include Java, Guice, Spanner, BigQuery, and MapReduce.
 
 ## Cloudera - Software Engineering Intern
 
